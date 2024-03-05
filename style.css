@@ -1,0 +1,16 @@
+body {
+  padding: 16px;
+}
+
+.cabecalho {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-pesquisa {
+  height: 40px;
+  width: 400px;
+  border: 1px solid #ECECEC;
+  border-radius: 32px 0px 0px 32px;
+  padding: 14px 12px;
+}
